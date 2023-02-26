@@ -11,7 +11,7 @@ Files in compressed .vcf.gz format in standard VCF 4.X. It's required that files
 
 ### Tools
 
-#### VCFtools 0.1.17
+#### [VCFtools 0.1.17](https://github.com/vcftools/vcftools)
 Recoding and filtering input files:
 * min. read depth: 3
 * min. mean reads depth: 20
@@ -20,7 +20,7 @@ Recoding and filtering input files:
 Calculating LD coefficients:
 * maximum distance between SNPs: 5000 BP
 
-#### Beagle 5.4
+#### [Beagle 5.4](http://faculty.washington.edu/browning/beagle/beagle.html)
 Haplotypes phasing and imputation
 
 #### PERL
